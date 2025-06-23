@@ -1,7 +1,7 @@
 // Program Name: Small World
 // Purpose: Extend programming functionality and experience
 // Author: Rodrigo Magana
-// Date Last Modified: June 18, 2025
+// Date Last Modified: June 23, 2025
 
 #include <iostream>
 using namespace std;
